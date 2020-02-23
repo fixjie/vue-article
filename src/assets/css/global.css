@@ -1,0 +1,43 @@
+/* 全局样式 */
+html,
+body,
+#app {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #eaedf1;  
+}
+
+.el-card {
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15) !important;
+}
+
+.el-table {
+    margin-top: 15px;
+    font-size: 12px;
+}
+
+.el-pagination {
+    margin-top: 15px;
+}
+/* 下拉菜单的距离 */
+.el-popper{
+    margin-top: 20px;
+}
+/* 重置头像的背景颜色 */
+.el-avatar{
+    background-color: white;
+}
+.el-dialog{
+    z-index: 3000;
+}
+/* 富文本菜单换行 */
+.w-e-toolbar{
+    display: flex !important;
+    flex-wrap: wrap !important;
+}
+/* 卡片高度撑满 */
+/* .el-card,
+.el-card__body {
+  height: 100%;
+} */
