@@ -17,4 +17,4 @@ echarts(图表) ,
 
 ### 在线预览
 
-http://ms.seemsdawn.cn:47777/p2
+http://ms.seemsdawn.cn:47777/vue-article
